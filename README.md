@@ -23,5 +23,7 @@ For the E-commerce site:
         This prodcut come from external sites, which will be arranged as seen on the respective site.
     WHAT WILL THE E-COMMERCE SECTION OF TH CLIENT SITE OF THE APP CONSIST OF:
         1)It will consist of a dashboard showing products to the users.
-        2)
+        2)It will consist of a tracker for the app.
+
+        https://github.com/Priestly-flutter/LIKE-MINDS.git
 
