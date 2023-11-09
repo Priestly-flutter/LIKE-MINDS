@@ -40,7 +40,7 @@ FOR THE E-LEARNING SECTION OF THE CLIENT SITE OF THE APP:
 
 //API call will be done for the followoing sites
 
-->1688.com
+->1688.com This API already exist so we'll need to fetch it
 
 //
 
