@@ -34,7 +34,15 @@ FOR THE E-LEARNING SECTION OF THE CLIENT SITE OF THE APP:
     -It will take the structure of youtube for the course section
     -Users will be able to host courses(upload courses)
     -Courses will be serparated into master adn free course
-    
+
+
+
+
+//API call will be done for the followoing sites
+
+->1688.com
+
+//
 
 
 
