@@ -47,6 +47,18 @@ FOR THE E-LEARNING SECTION OF THE CLIENT SITE OF THE APP:
 
 Design done
 
+## About Code
+    The app dir contains all the basic files we'll need in our projct.
+
+## Files to be created
+    - app
+    - app/page.tsx
+    - app/pages
+    - app/pages/index.tsx('this will be the landing page for the site, for those who haven't yet created an account {check design for how the landing page will look like and what the conctent will be}')
+    - app/pages/home.tsx('this will be the page that users will see when they have an account{see home design to see how the page will look like}')
+    - app/pages/login.tsx('this page will contain fields that will either permint a user to create an account or log into an account')
+    -app/pages/settings.tsx
+
 
 
 
